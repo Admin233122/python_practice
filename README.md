@@ -1,4 +1,3 @@
 # python_practice
-learn_python
-这是我学习python看的第一本书《python编程从入门到实践》中AlienInvasion项目的练习源码。
-在练习过程中学到了python包的调用，以及整个项目的重构等开发过程。
+学习蟒蛇
+这是我学习python看的第一本书《python编程从入门到实践》中AlienInvasion项目的练习代码。
